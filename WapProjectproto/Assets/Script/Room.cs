@@ -48,13 +48,45 @@ public class Room : MonoBehaviour
     public int xPos;
     public int yPos;
     public GameObject MiniMapRoom;
+    public Sprite MiniMapSprite;
+    public GameObject dungeon;
 
-    private void Awake()
+    // 해당 방의 몬스터 정보 받기 
+    public GameObject[] Monsters;
+    public int NumofMonsters;
+
+
+
+
+    public void DungeonMonstersInit()
+    {
+        if (dungeon.transform.Find("Monster"))
+        {
+            NumofMonsters = dungeon.transform.Find("Monster").childCount;
+
+            for (int i = 0; i < dungeon.transform.Find("Monster").childCount; i++)
+            {
+                Monsters[i] = dungeon.transform.Find("Monster").GetChild(i).gameObject;
+            }
+        }
+        else
+        {
+            Debug.Log("current room has'nt Monsters");
+        }
+    }
+
+    public void SwitchingMapDependPortal(bool isActivateDungeon)
+    {
+        dungeon.SetActive(isActivateDungeon);
+    }
+
+    public void InitRoom()
     {
         IsSearched = false;
         IsCreated = false;
        
     }
+
     //RoomMgr에서 DFS조건을 만족 못시켰을 때마다 모든 걸 초기화시키기 위해 만든 함수이다.
     //초기화해주지않으면 방의 정보가 남아있어 검색을 다시해도 똑같은 결과값이 나오게됨.
     public void ReInitialize()
@@ -62,9 +94,25 @@ public class Room : MonoBehaviour
         IsSearched = false;
         IsCreated = false;
         roomType = ROOMTYPE.NORMAL;
+        currentRoomIndex = 0;
         LeftRoomIndex = -1;
         RightRoomIndex = -1;
-        TopRoomIndex = -1;
         BottomRoomIndex = -1;
+        TopRoomIndex = -1;
+
+    }
+
+    public void InitializeDungeon()
+    {
+        if (dungeon.activeInHierarchy != false)
+        {
+            dungeon.SetActive(false);
+        }
+        
+    }
+
+    public void UpdateDungeon()
+    {
+
     }
 }

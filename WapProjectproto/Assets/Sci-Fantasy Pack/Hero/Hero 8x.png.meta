@@ -1,0 +1,1971 @@
+fileFormatVersion: 2
+guid: 859a8faf027ba45e2af68aeaad35dcd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6571477306814044952
+    second: Hero 8x_0
+  - first:
+      213: -7006462961497884579
+    second: Hero 8x_1
+  - first:
+      213: 4428496825721880005
+    second: Hero 8x_2
+  - first:
+      213: -852123546650961300
+    second: Hero 8x_3
+  - first:
+      213: -2854254732758460776
+    second: Hero 8x_4
+  - first:
+      213: -4853374638273230284
+    second: Hero 8x_5
+  - first:
+      213: -1093319285203323640
+    second: Hero 8x_6
+  - first:
+      213: -1925490419619999311
+    second: Hero 8x_7
+  - first:
+      213: 6274225525757310394
+    second: Hero 8x_8
+  - first:
+      213: -877437417032652474
+    second: Hero 8x_9
+  - first:
+      213: 6068359431660246865
+    second: Hero 8x_10
+  - first:
+      213: -6095257020451225380
+    second: Hero 8x_11
+  - first:
+      213: 988866443034715592
+    second: Hero 8x_12
+  - first:
+      213: 4556825101242340597
+    second: Hero 8x_13
+  - first:
+      213: 8112310030524019287
+    second: Hero 8x_14
+  - first:
+      213: 8880472258473636784
+    second: Hero 8x_15
+  - first:
+      213: -5673302182280061067
+    second: Hero 8x_16
+  - first:
+      213: -6146388372535596014
+    second: Hero 8x_17
+  - first:
+      213: -2504008560694692142
+    second: Hero 8x_18
+  - first:
+      213: 8128143085682584495
+    second: Hero 8x_19
+  - first:
+      213: -1071609969208373665
+    second: Hero 8x_20
+  - first:
+      213: -3781344381695704814
+    second: Hero 8x_21
+  - first:
+      213: -1025768886890738739
+    second: Hero 8x_22
+  - first:
+      213: 7243404759490278316
+    second: Hero 8x_23
+  - first:
+      213: -1942911805183687967
+    second: Hero 8x_24
+  - first:
+      213: -7483085282056636279
+    second: Hero 8x_25
+  - first:
+      213: 4721220318158269699
+    second: Hero 8x_26
+  - first:
+      213: -8712268623109529229
+    second: Hero 8x_27
+  - first:
+      213: -4419525288683136553
+    second: Hero 8x_28
+  - first:
+      213: -5195609910308012691
+    second: Hero 8x_29
+  - first:
+      213: -9111479539481234610
+    second: Hero 8x_30
+  - first:
+      213: 1807787926072011873
+    second: Hero 8x_31
+  - first:
+      213: -4456380392718100551
+    second: Hero 8x_32
+  - first:
+      213: -3094406450039296781
+    second: Hero 8x_33
+  - first:
+      213: -1224253057242881289
+    second: Hero 8x_34
+  - first:
+      213: -6588224332464757113
+    second: Hero 8x_35
+  - first:
+      213: 5372106844831794093
+    second: Hero 8x_36
+  - first:
+      213: -8532320360308671684
+    second: Hero 8x_37
+  - first:
+      213: 9172386147095414686
+    second: Hero 8x_38
+  - first:
+      213: -5668486766561806803
+    second: Hero 8x_39
+  - first:
+      213: 6582790433802423987
+    second: Hero 8x_40
+  - first:
+      213: 939492252768225857
+    second: Hero 8x_41
+  - first:
+      213: 7286166938355443764
+    second: Hero 8x_42
+  - first:
+      213: 6221494339278738889
+    second: Hero 8x_43
+  - first:
+      213: -8892837901910549398
+    second: Hero 8x_44
+  - first:
+      213: 153790942138695063
+    second: Hero 8x_45
+  - first:
+      213: 3995655244595142833
+    second: Hero 8x_46
+  - first:
+      213: 5445138333951118471
+    second: Hero 8x_47
+  - first:
+      213: 8972103494469223293
+    second: Hero 8x_48
+  - first:
+      213: 4337160593133793362
+    second: Hero 8x_49
+  - first:
+      213: -8018619163679720092
+    second: Hero 8x_50
+  - first:
+      213: -6024823728982217808
+    second: Hero 8x_51
+  - first:
+      213: -2450366620757259415
+    second: Hero 8x_52
+  - first:
+      213: -3472076275018391964
+    second: Hero 8x_53
+  - first:
+      213: -8450709658965011140
+    second: Hero 8x_54
+  - first:
+      213: 686445137557892176
+    second: Hero 8x_55
+  - first:
+      213: -7933340911021828801
+    second: Hero 8x_56
+  - first:
+      213: -8929813632300803061
+    second: Hero 8x_57
+  - first:
+      213: 9149459984205904700
+    second: Hero 8x_58
+  - first:
+      213: 6327915126029104964
+    second: Hero 8x_59
+  - first:
+      213: 4642932169717727186
+    second: Hero 8x_60
+  - first:
+      213: -2015302012702094103
+    second: Hero 8x_61
+  - first:
+      213: -148510649131503387
+    second: Hero 8x_62
+  - first:
+      213: -7220466014373227421
+    second: Hero 8x_63
+  - first:
+      213: -5067324457493129043
+    second: Hero 8x_64
+  - first:
+      213: 6268280528147639911
+    second: Hero 8x_65
+  - first:
+      213: 3550121423855206171
+    second: Hero 8x_66
+  - first:
+      213: 4882638976686544044
+    second: Hero 8x_67
+  - first:
+      213: -5442927856623680006
+    second: Hero 8x_68
+  - first:
+      213: 4857677972194953572
+    second: Hero 8x_69
+  - first:
+      213: 7939962911051373900
+    second: Hero 8x_70
+  - first:
+      213: 7980488717543691725
+    second: Hero 8x_71
+  - first:
+      213: -1379180338868624444
+    second: Hero 8x_72
+  - first:
+      213: 1696115989548522034
+    second: Hero 8x_73
+  - first:
+      213: -1813282067351532447
+    second: Hero 8x_74
+  - first:
+      213: 1505167493276010521
+    second: Hero 8x_75
+  - first:
+      213: 5812888667769297997
+    second: Hero 8x_76
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero 8x_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1536
+        width: 120
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1deaf67895dc642b5043dfa4dbe043
+      internalID: 6571477306814044952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1664
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf4d1ed879b8b48ad146859b8c6326
+      internalID: -7006462961497884579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1536
+        width: 104
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b947370b7a534f49b96447be63bd3bc
+      internalID: 4428496825721880005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1664
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e98c99bd1d6b548a47ebfa97d4c1d8
+      internalID: -852123546650961300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1536
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88c4ae36ce61744aba7d33b1e450b8
+      internalID: -2854254732758460776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1536
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bad12c3fe415c4d9cf28489f09f003
+      internalID: -4853374638273230284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1408
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca47c8c774e9f4da4ac15701e54c77
+      internalID: -1093319285203323640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1152
+        width: 112
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc68345f27ef8cf48b1465f091a0e5be
+      internalID: -1925490419619999311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1280
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15dcfa487808bb4baaeb7f5fc8a98ab
+      internalID: 6274225525757310394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 896
+        width: 104
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf308d78b19db1440b3cea2aa9d376bf
+      internalID: -877437417032652474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1024
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dd6bef3399e85499414a1f3a4acbfa
+      internalID: 6068359431660246865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 896
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc63317f81076c4aa6a6551756802d8
+      internalID: -6095257020451225380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 768
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721a0f3f53a72974793360ba0ef16f6f
+      internalID: 988866443034715592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 768
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c38af2a96493714da795c7a541118ba
+      internalID: 4556825101242340597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 672
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849ff4b43b29d4541b74fec2cb86275a
+      internalID: 8112310030524019287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ecef1a46d2cdf4b9bfffaed7e83c7a
+      internalID: 8880472258473636784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7270680f1d714ea4d36dd857cb12e
+      internalID: -5673302182280061067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 672
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046af5e9c1525549afa47e92e0f1206
+      internalID: -6146388372535596014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b74dfc16fc5a3942b4d50ddd2b8fbb2
+      internalID: -2504008560694692142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493ead6fd4e76f48919b9bc96dc41c4
+      internalID: 8128143085682584495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f9c9c8cb65204ab02d442622d7bd8
+      internalID: -1071609969208373665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f907f5b67b2dd14295078ad1d6afacd
+      internalID: -3781344381695704814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04912bf6539307241b9ae8dd29e4ff18
+      internalID: -1025768886890738739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 608
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b883b6b6df1e68147866a1771a58eb6e
+      internalID: 7243404759490278316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 584
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4462a01cda71764bb838d3694c1ea02
+      internalID: -1942911805183687967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_25
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 608
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a22e5984eb66f4990ce12a27d91715
+      internalID: -7483085282056636279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 560
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04028477566d34d944ad57bd9e56f8
+      internalID: 4721220318158269699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 552
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb3e6888823c734fbf450e0a87c2c37
+      internalID: -8712268623109529229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c7aeadbc1c3644cad5385f3de13e80
+      internalID: -4419525288683136553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a3b3cf886de145b723732082fc2cc
+      internalID: -5195609910308012691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 568
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d23e9792574043bed2d8cf7565528
+      internalID: -9111479539481234610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 568
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75826667fc09bce499df63a7c86d556a
+      internalID: 1807787926072011873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_32
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 552
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac72f300e8025414eb67554bc5908333
+      internalID: -4456380392718100551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 512
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef093104539018a4a91520fc1390eca0
+      internalID: -3094406450039296781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 528
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c5951606f93642865553daf84e182
+      internalID: -1224253057242881289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a52f5d98d52d7459e3458aa721bd72
+      internalID: -6588224332464757113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 528
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878a2a419468e44e9542ae5d8d672ab
+      internalID: 5372106844831794093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 512
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2bd9fc2b777944b042694f986160e
+      internalID: -8532320360308671684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf06e4df4d9d214aa86d72be43d372c
+      internalID: 9172386147095414686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_39
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 512
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e76ee93e616e44588dd8122f0aaccd
+      internalID: -5668486766561806803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 464
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39f0d82b17759448ac383283019016
+      internalID: 6582790433802423987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 424
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b52537e7984843bff2975bbe3dec0
+      internalID: 939492252768225857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 408
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72760d329764a24dbd2375a3935e113
+      internalID: 7286166938355443764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 400
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88153d54828ac94409c079807ce14855
+      internalID: 6221494339278738889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 440
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf041be46ce8fa148b28aaab59b39076
+      internalID: -8892837901910549398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 424
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b43f15e42e3a4daab77d57620711e
+      internalID: 153790942138695063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_46
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 408
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbacb43b748fe8d49bd932254971fc6c
+      internalID: 3995655244595142833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 392
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0f1b832e8d6949ba1aae5054a17a5
+      internalID: 5445138333951118471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837d6849896e357458ae49535ea29af0
+      internalID: 8972103494469223293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 384
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ac4a49b525e44fae2779b71e2085a
+      internalID: 4337160593133793362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c1138cef207649b845969eb2423ab
+      internalID: -8018619163679720092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a10d8ff5bc072840a8b8adcc5049ec4
+      internalID: -6024823728982217808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_52
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a4d94404dde44193a6a5379e37a49
+      internalID: -2450366620757259415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9240c5eb7e21469ba051775affd8f
+      internalID: -3472076275018391964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87f0797b5e24b4ea35b6f1420bc00d
+      internalID: -8450709658965011140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245837ed860c99459d85a8c4a6c6af6
+      internalID: 686445137557892176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb171e622e6810479d0159a1ca363d7
+      internalID: -7933340911021828801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_57
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04ee24102236144a2c86f464a7d1cc
+      internalID: -8929813632300803061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_58
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199034ba4bcfea48ba5c34d0e5ff2bb
+      internalID: 9149459984205904700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc884e2f22d7944bb23b3cf32218c3e
+      internalID: 6327915126029104964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c997bb21bbe3f6b4ea5f13f2d8c0b4f9
+      internalID: 4642932169717727186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3864b9136cae4e8444fdcc5796766
+      internalID: -2015302012702094103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_62
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9237c0fc1d49742a030720987df6ef
+      internalID: -148510649131503387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_63
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205252f5747b3b42b7e3f4a48fe1324
+      internalID: -7220466014373227421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f04efb09ec94584585d6e6b6f5edeb2
+      internalID: -5067324457493129043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_65
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f9f73798dd4b446ac45f5492c319c1
+      internalID: 6268280528147639911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03984202fccd9034bbb9739332620642
+      internalID: 3550121423855206171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_67
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c022643c349747b651624feecfdf7
+      internalID: 4882638976686544044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_68
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 264
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96a34d0de052f144ab972a5cac01b5b
+      internalID: -5442927856623680006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1092865824c54954099801a256519416
+      internalID: 4857677972194953572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25e8807fb9a58241b85bb9911f4eee6
+      internalID: 7939962911051373900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfa8b370c7385342aeba0594d485ad3
+      internalID: 7980488717543691725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_72
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7aad38ca3ede441a271547ea8672ab
+      internalID: -1379180338868624444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab6a50531d42941b522c4f4b91d0ec
+      internalID: 1696115989548522034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77eb808b5dd5dc468bdd817bc4a9f8c
+      internalID: -1813282067351532447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c41575558ff7c04e91a2c24d21289ea
+      internalID: 1505167493276010521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero 8x_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e6cfbc9517f24c8203a3dd29efc5a
+      internalID: 5812888667769297997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e9c4221e1f3415a4a9a78b69ca6745b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

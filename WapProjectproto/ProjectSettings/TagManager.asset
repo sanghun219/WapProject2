@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - MiniMap
+  - Wall
+  - Monster
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -14,9 +17,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - BackGround
+  - Player
+  - MonsterWall
   - 
   - 
   - 
@@ -41,4 +44,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 218345381
     locked: 0
