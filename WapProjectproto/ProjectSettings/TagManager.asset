@@ -8,6 +8,9 @@ TagManager:
   - Wall
   - Monster
   - Bullet
+  - EnemyBullet
+  - Flying
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -20,8 +23,8 @@ TagManager:
   - BackGround
   - Player
   - MonsterWall
-  - 
-  - 
+  - Monster
+  - Flying
   - 
   - 
   - 

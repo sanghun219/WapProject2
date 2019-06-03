@@ -24,7 +24,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_2019_1_0;UNITY_2019_1;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2019_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_SCRIPTING_GC_WBARRIERS;ENABLE_EVENT_QUEUE;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_2019_1_0;UNITY_2019_1;UNITY_2019;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2019_1_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_WIN;PLATFORM_STANDALONE;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_SCRIPTING_GC_WBARRIERS;ENABLE_EVENT_QUEUE;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;CROSS_PLATFORM_INPUT;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -62,96 +62,123 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\AxisState.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CameraState.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineCore.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\GaussianFilter.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\LensSettings.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\NoiseSettings.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\Predictor.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\SplineHelpers.cs" />
-    <Compile Include="Assets\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs" />
-    <Compile Include="Assets\Cinemachine\PostFX\CinemachinePostFX.cs" />
-    <Compile Include="Assets\Cinemachine\PostFX\CinemachinePostProcessing.cs" />
-    <Compile Include="Assets\Cinemachine\Timeline\CinemachineMixer.cs" />
-    <Compile Include="Assets\Cinemachine\Timeline\CinemachineShot.cs" />
-    <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
-    <Compile Include="Assets\Script\Bullet.cs" />
-    <Compile Include="Assets\Script\EventManager.cs" />
-    <Compile Include="Assets\Script\GameManager.cs" />
-    <Compile Include="Assets\Script\Gun.cs" />
-    <Compile Include="Assets\Script\Minimap.cs" />
-    <Compile Include="Assets\Script\Monster\Boomber.cs" />
-    <Compile Include="Assets\Script\Monster\Monster.cs" />
-    <Compile Include="Assets\Script\Monster\MonsterAction.cs" />
-    <Compile Include="Assets\Script\Player.cs" />
-    <Compile Include="Assets\Script\Portal.cs" />
-    <Compile Include="Assets\Script\Room.cs" />
-    <Compile Include="Assets\Script\RoomMgr.cs" />
-    <Compile Include="Assets\Script\SubPortal.cs" />
-    <None Include="Assets\Low Poly UI Kit - v.1.1c\UI Kit\AI Files\README.txt" />
-    <None Include="Assets\Low Poly UI Kit - v.1.1c\UI Kit\Font\README.txt" />
-    <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
-    <None Include="Assets\Low Poly UI Kit - v.1.1c\README.txt" />
+    <Compile Include="Assets\Asset\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs" />
+    <Compile Include="Assets\Asset\GE Common Assets\Scripts\GE_UIResponder.cs" />
+    <Compile Include="Assets\Script\0.Manager\Dialgoue\Dialgoue.cs" />
+    <Compile Include="Assets\Script\0.Manager\Dialgoue\Dialoguemanager.cs" />
+    <Compile Include="Assets\Script\0.Manager\Dialgoue\DialogueTrigger.cs" />
+    <Compile Include="Assets\Script\0.Manager\Dialgoue\EventScript.cs" />
+    <Compile Include="Assets\Script\0.Manager\EventManager\EventManager.cs" />
+    <Compile Include="Assets\Script\0.Manager\GameManager.cs" />
+    <Compile Include="Assets\Script\0.Manager\RoomMgr.cs" />
+    <Compile Include="Assets\Script\0.Manager\SceneManager\LoadingSceneManager.cs" />
+    <Compile Include="Assets\Script\0.Manager\SoundManager\SoundManager.cs" />
+    <Compile Include="Assets\Script\0.Manager\UIManager\MenuController.cs" />
+    <Compile Include="Assets\Script\0.Manager\UIManager\UIinformationMgr.cs" />
+    <Compile Include="Assets\Script\0.Manager\UIManager\UIManager.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Boomber\Boomber.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Boss\Boss.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Explosion\Explosion.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Ghost\Ghost.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Ghost\Weapon\GhostBullet.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Ghost\Weapon\GhostGun.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Long\LongAtkMonster.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Long\Weapon\LongAtkMonBullet.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Long\Weapon\LongAtkMonsterGun.cs" />
+    <Compile Include="Assets\Script\1.Object\Monster\Monster.cs" />
+    <Compile Include="Assets\Script\1.Object\Player\Player.cs" />
+    <Compile Include="Assets\Script\1.Object\Player\Weapon\Bullet.cs" />
+    <Compile Include="Assets\Script\1.Object\Player\Weapon\Gun.cs" />
+    <Compile Include="Assets\Script\1.Object\Portal\Portal.cs" />
+    <Compile Include="Assets\Script\1.Object\Portal\SubPortal.cs" />
+    <Compile Include="Assets\Script\2.Others\Event\BattleZone.cs" />
+    <Compile Include="Assets\Script\2.Others\Event\checkPlayTime.cs" />
+    <Compile Include="Assets\Script\2.Others\Event\Fade.cs" />
+    <Compile Include="Assets\Script\2.Others\Event\GameOver.cs" />
+    <Compile Include="Assets\Script\2.Others\Map\Minimap.cs" />
+    <Compile Include="Assets\Script\2.Others\Map\Poison.cs" />
+    <Compile Include="Assets\Script\2.Others\Map\Room.cs" />
+    <Compile Include="Assets\Script\2.Others\Sound\Sound.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineBlendListCamera.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineBrain.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineClearShot.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineCollider.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineConfiner.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineDollyCart.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineExternalCamera.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineFollowZoom.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineFreeLook.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineMixingCamera.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachinePath.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachinePipeline.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoother.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineSmoothPath.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineStateDrivenCamera.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineTargetGroup.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Behaviours\CinemachineVirtualCamera.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineBasicMultiChannelPerlin.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineComposer.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineFramingTransposer.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineGroupComposer.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineHardLockToTarget.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineHardLookAt.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineOrbitalTransposer.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachinePOV.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineSameAsFollowObject.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineTrackedDolly.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Components\CinemachineTransposer.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\AxisState.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CameraState.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachineBlend.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachineBlenderSettings.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachineComponentBase.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachineCore.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachineDebugLogger.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachineExtension.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachinePathBase.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachinePropertyAttribute.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\CinemachineVirtualCameraBase.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\GaussianFilter.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\ICinemachineCamera.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\ICinemachineComponent.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\LensSettings.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\NoiseSettings.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\Predictor.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\ReflectionHelpers.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\SplineHelpers.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Base\Runtime\Core\UnityVectorExtensions.cs" />
+    <Compile Include="Assets\Util\Cinemachine\PostFX\CinemachinePostFX.cs" />
+    <Compile Include="Assets\Util\Cinemachine\PostFX\CinemachinePostProcessing.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Timeline\CinemachineMixer.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Timeline\CinemachineShot.cs" />
+    <Compile Include="Assets\Util\Cinemachine\Timeline\CinemachineTrack.cs" />
+    <None Include="Assets\Asset\Low Poly UI Kit - v.1.1c\UI Kit\AI Files\README.txt" />
+    <None Include="Assets\Asset\Low Poly UI Kit - v.1.1c\UI Kit\Font\README.txt" />
+    <None Include="Assets\Util\Cinemachine\ReleaseNotes.txt" />
+    <None Include="Assets\Asset\555_UI_Sound_FX\readme_ja.txt" />
+    <None Include="Assets\Asset\555_UI_Sound_FX\readme.txt" />
+    <None Include="Assets\Asset\Low Poly UI Kit - v.1.1c\README.txt" />
+    <None Include="Assets\Asset\GE Common Assets\Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -337,13 +364,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/sangh/Desktop/WapProject/WapProjectproto/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/sangh/Desktop/2019년/2019-5월/wap 1학기 프로젝트/WapProject/WapProjectproto/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -690,6 +717,12 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.1.0f2/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{9751A398-8078-5789-AA9B-1FD5B10283DC}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

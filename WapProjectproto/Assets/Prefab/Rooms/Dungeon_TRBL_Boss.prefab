@@ -116120,6 +116120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd89ec7f6691e4940ab5d28a79c00110, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogueTrigger: []
   portal_Dir: 1
 --- !u!61 &7312516626999397206
 BoxCollider2D:
@@ -118114,7 +118115,7 @@ CompositeCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_GeometryType: 0
+  m_GeometryType: 1
   m_GenerationType: 0
   m_EdgeRadius: 0
   m_ColliderPaths:
@@ -122966,6 +122967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd89ec7f6691e4940ab5d28a79c00110, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogueTrigger: []
   portal_Dir: 0
 --- !u!1 &4639579693381697564
 GameObject:
@@ -122978,6 +122980,7 @@ GameObject:
   - component: {fileID: 8255960193422122345}
   - component: {fileID: 4822348134311894941}
   - component: {fileID: 2306137710981789162}
+  - component: {fileID: 6343457397329941415}
   m_Layer: 0
   m_Name: Portal
   m_TagString: Untagged
@@ -123037,7 +123040,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd89ec7f6691e4940ab5d28a79c00110, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogueTrigger: []
   portal_Dir: 5
+--- !u!114 &6343457397329941415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4639579693381697564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2bc911645bf1e43a3471253cad9a16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: BossPortal
+    sentences:
+    - Clear All Dungeon
+  type: 1
 --- !u!1 &4794035477807102189
 GameObject:
   m_ObjectHideFlags: 0
@@ -123310,6 +123331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd89ec7f6691e4940ab5d28a79c00110, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogueTrigger: []
   portal_Dir: 3
 --- !u!61 &246367465330187807
 BoxCollider2D:
@@ -123407,6 +123429,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd89ec7f6691e4940ab5d28a79c00110, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogueTrigger: []
   portal_Dir: 2
 --- !u!1 &6618686467738212024
 GameObject:
